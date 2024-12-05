@@ -7,29 +7,29 @@ Value position: managed open source software
 
 
 
-# What's in the box
+# [What's in the box](https://docs.oracle.com/en-us/iaas/Content/bigdata/overview.htm#odh-2.x)
 - Hadoop 3.3.3
 - Spark 3.2.1
-- Hbase 2.2.6
-- Oozie 5.2.0
+- Hbase 2.4.13
+- Oozie 5.2.1
 - Hive 3.1.3
   - external connection is allowed only in non-ha cluster
   - port 10000 for Hive Thrift Server
-- Hue
-- Tez 0.10.0
+- Hue 4.10.0
+- Tez 0.10.2
 - Sqoop 1.4.7
 - Ambari 2.7.5
-- Zookeeper 3.4.14
-- Presto (preconfigured in Big Data clusters, can be managed through Ambari)
-  - Use cases: ad hoc query
-- JupyterHub
+  - is dead
+- Kafka 3.2.0
+- Zookeeper 3.7.1
+- JupyterHub 2.1.1
 - Flume
 - Flink 1.15.2
 - Delta Lake 1.2.1
-- Apache Range
+- Apache Ranger 2.3.0 and InfrSolr 0.1.0
 - Trino 389
 
-
+Base image: Oracle Linux 7.9
 
 
 # Data I/O
