@@ -1,9 +1,13 @@
 # OCI Big Data Service (BDS)
 
 Value position: managed open source software
+- Compared to AWS EMR, BDS is less managed
+	- User can master node CPU vertical scalable
+  - Servermore: User can change node in os level
 
 
-What's in the box
+
+# What's in the box
 - Hadoop 3.1.2
 - Spark + HistoryServer 3.0.2
 - Hbase 2.2.6
