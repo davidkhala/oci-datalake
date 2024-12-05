@@ -8,11 +8,11 @@ Value position: managed open source software
 
 
 # What's in the box
-- Hadoop 3.1.2
-- Spark + HistoryServer 3.0.2
+- Hadoop 3.3.3
+- Spark 3.2.1
 - Hbase 2.2.6
 - Oozie 5.2.0
-- Hive 3.1.2
+- Hive 3.1.3
   - external connection is allowed only in non-ha cluster
   - port 10000 for Hive Thrift Server
 - Hue
@@ -24,9 +24,10 @@ Value position: managed open source software
   - Use cases: ad hoc query
 - JupyterHub
 - Flume
-- Flink (To be GA)
-- Delta (To be GA)
+- Flink 1.15.2
+- Delta Lake 1.2.1
 - Apache Range
+- Trino 389
 
 
 
