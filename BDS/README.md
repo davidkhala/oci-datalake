@@ -23,7 +23,7 @@ Value position: managed open source software
 - Kafka 3.2.0
 - Zookeeper 3.7.1
 - JupyterHub 2.1.1
-- Flume
+- Flume: 1.10.0
 - Flink 1.15.2
 - Delta Lake 1.2.1
 - Apache Ranger 2.3.0 and InfrSolr 0.1.0
