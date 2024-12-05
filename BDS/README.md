@@ -39,6 +39,8 @@ For other database
 # Limit
 - Only one external metastore can be configured for a cluster
 - Object Storage is used only for BDS Cloud SQL feature
-- No plan to have a GUI to map public IP to private IP
+- [Network specialty](./network.md) required
+  - Big Data Service nodes are by default assigned private IP addresses
+  - No roadmap planned to have a GUI to map public IP to private IP
 
 
